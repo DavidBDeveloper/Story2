@@ -1,1 +1,2 @@
 This is a new story. 
+But this part has some changes.
